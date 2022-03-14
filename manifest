@@ -1,9 +1,0 @@
-{
-    "name": "sawbox",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/redrazzled/red_raz",
-    "description": "a mod that wont work :D",
-    "dependencies": [
-        "olavim-MapsExtended-<0.9.5>"
-    ]
-}
